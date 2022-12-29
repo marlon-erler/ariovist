@@ -117,10 +117,10 @@ export function assemble(styles, scripts, pins, details, options) {
 		</div>
 		<div id="map">
 			<div id="map-container">
-				<img src="../Images/map-xs.jpg">
-				<img src="../Images/map-sm.jpg">
-				<img src="../Images/map-md.jpg">
-				<img src="../Images/map-lg.jpg">
+				<img src="../Images/Map/map-xs.jpg">
+				<img src="../Images/Map/map-sm.jpg">
+				<img src="../Images/Map/map-md.jpg">
+				<img src="../Images/Map/map-lg.jpg">
 
 				${pins.join('\n')}
 			</div>
