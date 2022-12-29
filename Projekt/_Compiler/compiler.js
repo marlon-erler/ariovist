@@ -44,7 +44,7 @@ export function parseData(data) {
 
 		for (let point of chapter.points) {
 			let point_id = UUID();
-			let [top, left] = point.coordinates;
+			let [left, top] = point.coordinates;
 
 			let pin = `<div class='pin' style='top: ${top}%; left: ${left}%' chapter='${chapter_id}' point='${point_id}' onclick="showDetails('${point_id}')"></div>`;
 			add(0, pin);
