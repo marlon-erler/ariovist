@@ -120,7 +120,6 @@ export function assemble(styles, scripts, pins, details, options) {
 				<img src="../Images/Map/map-xs.jpg">
 				<img src="../Images/Map/map-sm.jpg">
 				<img src="../Images/Map/map-md.jpg">
-				<img src="../Images/Map/map-lg.jpg">
 
 				${pins.join('\n')}
 			</div>
