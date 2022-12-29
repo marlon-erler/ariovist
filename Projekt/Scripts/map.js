@@ -35,7 +35,7 @@ function dragEnd() {
 function dragMove(e) {
     if (dragging == false) return;
 
-    let current_coordinates = [];
+    let current_coordinates = [0, 0];
     getCoordinates(e, current_coordinates);
 
     let difference = current_coordinates.map((x, i) => x - start_coordinates[i]);
@@ -61,3 +61,19 @@ function zoom(inc) {
 
 document.querySelector('#zoom-in-btn').addEventListener('click', () => zoom(zoom_level * 1.5));
 document.querySelector('#zoom-out-btn').addEventListener('click', () => zoom(zoom_level * 0.5));
+
+//PINS
+function locatePin(e) {
+    let coordinates = [0, 0];
+    getCoordinates(e, coordinates);
+
+    let rect = map_body.getBoundingClientRect();
+    let offset = [rect.left, rect.top];
+    let size = [rect.width, rect.height];
+    
+    let difference = coordinates.map((x, i) => x - offset[i]);
+    let relative_difference = difference.map((x, i) => x / size[i] * 100);
+    console.log(relative_difference);
+}
+
+map_body.addEventListener('click', locatePin);
