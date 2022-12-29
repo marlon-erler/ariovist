@@ -107,10 +107,10 @@ export function assemble(styles, scripts, pins, details, options) {
 	<body>
 		<div id="header">
 			<div class="button-group">
-				<button id="zoom-out-btn" onclick="zoom(zoom_level * 0.5)">
+				<button id="zoom-out-btn" onclick="zoom(zoom_level * 0.75)">
 					<img class="icon" src="../Images/Icons/remove-circle-outline.svg">
 				</button>
-				<button id="zoom-in-btn" onclick="zoom(zoom_level * 1.5)">
+				<button id="zoom-in-btn" onclick="zoom(zoom_level * 1.25)">
 					<img class="icon" src="../Images/Icons/add-circle-outline.svg">
 				</button>
 			</div>
