@@ -1,63 +1,104 @@
 [
     {
+        "index": 1,
         "title": "Parteien",
         "points": [
             {
-                "coordinates": [20, 20],
+                "coordinates": [
+                    70,
+                    40
+                ],
                 "contents": [
                     {
                         "type": "text",
-                        "title": "Beispieltext",
-                        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                        "title": "Die Germanen",
+                        "body": ""
                     },
                     {
                         "type": "person",
-                        "image": "a.png",
-                        "name": "John Doe",
-                        "description": "Beispielperson",
-                        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                        "image": "ariovist.png",
+                        "name": "Ariovist",
+                        "description": "Germanischer Heerführer",
+                        "body": ""
                     }
                 ]
             },
             {
-                "coordinates": [40, 30],
+                "coordinates": [
+                    66,
+                    46
+                ],
                 "contents": [
                     {
                         "type": "text",
-                        "title": "Beispieltext 2",
-                        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "Blabla",
-        "points": [
-            {
-                "coordinates": [40, 40],
-                "contents": [
-                    {
-                        "type": "text",
-                        "title": "Beispieltext",
-                        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-                    },
-                    {
-                        "type": "person",
-                        "image": "a.png",
-                        "name": "John Doe",
-                        "description": "Beispielperson",
-                        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                        "title": "Die Helvetier",
+                        "body": "Ursprünglich siedelten die Helvetier im Gebiet der heutigen Schweiz, wo sie jedoch aufgrund des Juragebirges äußerst ungünstig gelegen waren. Auch der Druck der Germanen führte letzendlich dazu, dass die Helvetier beabsichtigen, auszuwandern."
                     }
                 ]
             },
             {
-                "coordinates": [40, 30],
+                "coordinates": [
+                    50,
+                    48
+                ],
                 "contents": [
                     {
                         "type": "text",
-                        "title": "Beispieltext 2",
-                        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                        "title": "Die Averner",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "coordinates": [
+                    61,
+                    41
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Die Sequaner",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "coordinates": [
+                    84,
+                    43
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Noricum",
+                        "body": ""
+                    },
+                    {
+                        "type": "person",
+                        "image": "king.jpg",
+                        "name": "Voccio",
+                        "description": "König des Noricum",
+                        "body": ""
+                    }
+                ]
+            },
+            {
+                "coordinates": [
+                    45,
+                    59
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Das Römische Reich",
+                        "body": ""
+                    },
+                    {
+                        "type": "person",
+                        "image": "caesar.png",
+                        "name": "Gaius Iulius Caesar",
+                        "description": "Römischer Staatsmann und Feldherr",
+                        "body": ""
                     }
                 ]
             }

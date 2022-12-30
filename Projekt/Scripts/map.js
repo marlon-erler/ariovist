@@ -5,8 +5,11 @@ let map_size = [map.offsetWidth, map.offsetHeight];
 let scroll_size = [map.scrollWidth, map.scrollHeight];
 
 //INIT
-map.scrollLeft = scroll_size[0] / 4;
-map.scrollTop = scroll_size[1] / 4;
+function scroll(direction, index, offset = 0) {
+    map[`scroll${direction}`] = scroll_size[index]/2 - map_size[index]/2 + scroll_size[index]*offset;
+}
+scroll('Left', 0, .1);
+scroll('Top', 1);
 
 //DRAGGING
 let dragging = false;
