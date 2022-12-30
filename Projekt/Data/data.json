@@ -12,13 +12,13 @@
                     {
                         "type": "text",
                         "title": "Die Germanen",
-                        "body": ""
+                        "body": "Bei den Germanen handelte es sich um mehrere Stämme in und um Mitteleuropa. Da sie von Caesar als Maßstab für die Tapferkeit anderer gallischer Stämme verwendet wurden, muss es sich hier um die stärksten und gefährlichsten Völker Galliens gehandelt haben."
                     },
                     {
                         "type": "person",
                         "image": "ariovist.png",
                         "name": "Ariovist",
-                        "description": "Germanischer Heerführer",
+                        "description":"Germanischer Heerführer",
                         "body": ""
                     }
                 ]
@@ -32,7 +32,14 @@
                     {
                         "type": "text",
                         "title": "Die Helvetier",
-                        "body": "Ursprünglich siedelten die Helvetier im Gebiet der heutigen Schweiz, wo sie jedoch aufgrund des Juragebirges äußerst ungünstig gelegen waren. Auch der Druck der Germanen führte letzendlich dazu, dass die Helvetier beabsichtigen, auszuwandern."
+                        "body": "Ursprünglich siedelten die Helvetier im Gebiet der heutigen Schweiz, wo sie jedoch aufgrund des Juragebirges und des Rheins eingeschlossen und somit äußerst ungünstig gelegen waren. Auch der Druck durch die Germanen führte letzendlich zu ihrer Absicht, auszuwandern."
+                    },
+                    {
+                    	"type": "person",
+                    	"image": "orgetorix.png",
+                    	"name": "Orgetorix",
+                    	"description": "Helvetischer Verschwörer",
+                    	"body": "Orgetorix war der reichste Mann bei den Helvetiern. Aus Machtgier zettelte er eine Verschwörung an und überredete den Stamm, das Gebiet zu verlassen. Dies gelang ihm vor allem aufgrund der suboptimalen Lage. Obleich Orgetorix dies selbst nicht mehr miterlebte, begannen die Helvetier tatsächlich diese Reise."
                     }
                 ]
             },
@@ -45,7 +52,7 @@
                     {
                         "type": "text",
                         "title": "Die Averner",
-                        "body": ""
+                        "body": "Die Averner waren ein keltischer Stamm im heutigen Auvergne. Während der römischen Unterwerfung Südgalliens halfen die Averner den Allobrogern, wobei sie jedoch besiegt und später in das Reich eingegliedert wurden."
                     }
                 ]
             },
@@ -58,7 +65,7 @@
                     {
                         "type": "text",
                         "title": "Die Sequaner",
-                        "body": ""
+                        "body": "Die Sequaner waren ein keltischer Stamm im heutigen Besançon. In einem Streit mit den Haeduern baten sie den Germanenkönig Ariovist um Hilfe."
                     }
                 ]
             },
@@ -71,14 +78,14 @@
                     {
                         "type": "text",
                         "title": "Noricum",
-                        "body": ""
+                                "body": "Das Noricum war ein keltisches Königreich, welches ursprünglich im Gebiet des heutigen Österreich aufzufinden war. Durch verbesserte Anbaumethoden und Technologien wie eiserne Pflugscharen wuchs ihre Bevölkerung jedoch sehr schnell, weshalb sie sich in der Poebene ansiedelten. Die Römer verhandelten später eine staatliche Gastfreundschaft, woraus gute Handelsbeziehungen zwischen Rom und Noricum entstanden."
                     },
                     {
                         "type": "person",
                         "image": "king.jpg",
                         "name": "Voccio",
                         "description": "König des Noricum",
-                        "body": ""
+                        "body": "Voccio war ein wachsamer und strategischer Herrscher. Im römischen Bürgerkrieg unterstützte er Caesar, um eine Allianz gegen die Daker zu formen, welche die Boier und Taurisker schlugen. Im Misstrauen gegenüber Boiern, welche sich nun mit den Helvetiern verbündeten, verheiratete Voccio seine Schwester mit dem Germanenkönig Ariovist, um sich gegen die Boier und Helvetier abzusichern."
                     }
                 ]
             },
@@ -88,11 +95,6 @@
                     59
                 ],
                 "contents": [
-                    {
-                        "type": "text",
-                        "title": "Das Römische Reich",
-                        "body": ""
-                    },
                     {
                         "type": "person",
                         "image": "caesar.png",
