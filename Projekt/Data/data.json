@@ -1,7 +1,7 @@
 [
     {
         "index": 1,
-        "title": "Parteien",
+        "title": "Übersicht",
         "points": [
             {
                 "coordinates": [
@@ -18,8 +18,8 @@
                         "type": "person",
                         "image": "ariovist.png",
                         "name": "Ariovist",
-                        "description":"Germanischer Heerführer",
-                        "body": ""
+                        "description": "Germanischer Heerführer",
+                        "body": "Über den Germanenkönig Ariovist persönlich wurden fast keine Informationen überliefert, unter anderem aus Caesars Schriften lassen sich jedoch seine Handlungen im Gallischen Krieg nachvollziehen. Von den Avernern und Sequanern um Hilfe gebeten fiel Ariovist als Heerkönig in Gallien ein, um diese im Kampf gegen die Haeduer zu unterstützen. Von den Römern geschlagen mussten die Germanen später wieder über den Rhein fliehen, kurz darauf verstarb Ariovist."
                     }
                 ]
             },
@@ -35,11 +35,11 @@
                         "body": "Ursprünglich siedelten die Helvetier im Gebiet der heutigen Schweiz, wo sie jedoch aufgrund des Juragebirges und des Rheins eingeschlossen und somit äußerst ungünstig gelegen waren. Auch der Druck durch die Germanen führte letzendlich zu ihrer Absicht, auszuwandern."
                     },
                     {
-                    	"type": "person",
-                    	"image": "orgetorix.png",
-                    	"name": "Orgetorix",
-                    	"description": "Helvetischer Verschwörer",
-                    	"body": "Orgetorix war der reichste Mann bei den Helvetiern. Aus Machtgier zettelte er eine Verschwörung an und überredete den Stamm, das Gebiet zu verlassen. Dies gelang ihm vor allem aufgrund der suboptimalen Lage. Obleich Orgetorix dies selbst nicht mehr miterlebte, begannen die Helvetier tatsächlich diese Reise."
+                        "type": "person",
+                        "image": "orgetorix.png",
+                        "name": "Orgetorix",
+                        "description": "Helvetischer Verschwörer",
+                        "body": "Orgetorix war der reichste Mann bei den Helvetiern. Aus Machtgier zettelte er eine Verschwörung an und überredete den Stamm, das Gebiet zu verlassen. Dies gelang ihm vor allem aufgrund der suboptimalen Lage. Obleich Orgetorix dies selbst nicht mehr miterlebte, begannen die Helvetier tatsächlich diese Reise."
                     }
                 ]
             },
@@ -52,7 +52,7 @@
                     {
                         "type": "text",
                         "title": "Die Averner",
-                        "body": "Die Averner waren ein keltischer Stamm im heutigen Auvergne. Während der römischen Unterwerfung Südgalliens halfen die Averner den Allobrogern, wobei sie jedoch besiegt und später in das Reich eingegliedert wurden."
+                        "body": "Die Averner waren ein keltischer Stamm im heutigen Auvergne. Während der römischen Unterwerfung Südgalliens halfen sie den Allobrogern, wobei sie jedoch besiegt und später in das Reich eingegliedert wurden."
                     }
                 ]
             },
@@ -78,7 +78,7 @@
                     {
                         "type": "text",
                         "title": "Noricum",
-                                "body": "Das Noricum war ein keltisches Königreich, welches ursprünglich im Gebiet des heutigen Österreich aufzufinden war. Durch verbesserte Anbaumethoden und Technologien wie eiserne Pflugscharen wuchs ihre Bevölkerung jedoch sehr schnell, weshalb sie sich in der Poebene ansiedelten. Die Römer verhandelten später eine staatliche Gastfreundschaft, woraus gute Handelsbeziehungen zwischen Rom und Noricum entstanden."
+                        "body": "Das Noricum war ein keltisches Königreich, welches ursprünglich im Gebiet des heutigen Österreich aufzufinden war. Durch verbesserte Anbaumethoden und Technologien wie eiserne Pflugscharen wuchs ihre Bevölkerung jedoch sehr schnell, weshalb sie sich in der Poebene ansiedelten. Die Römer verhandelten später eine staatliche Gastfreundschaft, woraus gute Handelsbeziehungen zwischen Rom und Noricum entstanden."
                     },
                     {
                         "type": "person",
