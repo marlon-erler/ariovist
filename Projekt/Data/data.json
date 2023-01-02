@@ -5,8 +5,8 @@
         "points": [
             {
                 "coordinates": [
-                    70,
-                    40
+                    36,
+                    55
                 ],
                 "contents": [
                     {
@@ -25,8 +25,8 @@
             },
             {
                 "coordinates": [
-                    66,
-                    46
+                    35,
+                    59
                 ],
                 "contents": [
                     {
@@ -45,8 +45,8 @@
             },
             {
                 "coordinates": [
-                    50,
-                    48
+                    28,
+                    60
                 ],
                 "contents": [
                     {
@@ -58,21 +58,21 @@
             },
             {
                 "coordinates": [
-                    61,
-                    41
+                    33,
+                    55
                 ],
                 "contents": [
                     {
                         "type": "text",
                         "title": "Die Sequaner",
-                        "body": "Die Sequaner waren ein keltischer Stamm im heutigen Besançon. In einem Streit mit den Haeduern baten sie gemeinsam mit den Avernern den Germanenkönig Ariovist um Hilfe."
+                        "body": "Die Sequaner waren ein Volk im heutigen Besançon. In einem Streit mit den Haeduern baten sie gemeinsam mit den Avernern den Germanenkönig Ariovist um Hilfe."
                     }
                 ]
             },
             {
                 "coordinates": [
-                    73,
-                    55 
+                    38,
+                    62
                 ],
                 "contents": [
                     {
@@ -91,16 +91,42 @@
             },
             {
                 "coordinates": [
-                    45,
-                    59
+                    26,
+                    64
                 ],
                 "contents": [
                     {
                         "type": "person",
                         "image": "caesar.png",
-                        "name": "Gaius Iulius Caesar",
-                        "description": "Römischer Staatsmann und Feldherr",
-                        "body": "Nach einem teilweise fragwürdigen und rechtswidrigen politischen Aufstieg befand Caesar sich in einer suboptimalen Position: Nach einem Ende seiner politischen Amtszeit würde er wegen seiner Verfassungsbrüche verurteilt und ruiniert werden. Daher versuchte er, in Gallien möglichst viel militärischen Ruhm zu erlangen, um den Senat zu zwingen, ihm zu verzeihen."
+                        "name": "Caesar",
+                        "description": "Römischer Staatsmann",
+                        "body": "Nach einem teilweise fragwürdigen und rechtswidrigen politischen Aufstieg befand sich Gaius Iulius Caesar in einer suboptimalen Position: Nach einem Ende seiner politischen Amtszeit würde er wegen seiner Verfassungsbrüche verurteilt und ruiniert werden. Daher versuchte er, in Gallien möglichst viel militärischen Ruhm zu erlangen, um den Senat zu zwingen, ihm zu verzeihen."
+                    }
+                ]
+            },
+            {
+                "coordinates": [
+                    58,
+                    59
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Die Daker",
+                        "body": "Die Daker siedelten im Gebiet des heutigen Rumäniens."
+                    }
+                ]
+            },
+            {
+                "coordinates": [
+                    52,
+                    59
+                ],
+                "contents": [
+                    {
+                        "type":"text",
+                        "title": "Boier",
+                        "body": "Die Boier siedelten im Gebiet zwischen dem heutigen Ungarn bis Süddeutschland."
                     }
                 ]
             }
