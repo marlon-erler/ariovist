@@ -1,6 +1,5 @@
 [
     {
-        "index": 1,
         "title": "Ausgangszustand",
         "points": [
             {
@@ -85,7 +84,7 @@
                         "image": "king.jpg",
                         "name": "Voccio",
                         "description": "König des Noricum",
-                        "body": "Voccio war ein wachsamer und strategischer Herrscher. Im römischen Bürgerkrieg unterstützte er Caesar, um eine Allianz gegen die Daker zu formen, welche die Boier und Taurisker geschlagen hatten. Im Misstrauen gegenüber den verbleibenden Boiern, welche sich nun mit den Helvetiern verbündeten, verheiratete Voccio seine Schwester mit dem Germanenkönig Ariovist, um sich gegen die Boier und Helvetier abzusichern."
+                        "body": "Voccio war ein wachsamer und strategischer Herrscher des Königreiches Noricum."
                     }
                 ]
             },
@@ -124,9 +123,119 @@
                 ],
                 "contents": [
                     {
-                        "type":"text",
+                        "type": "text",
                         "title": "Boier",
                         "body": "Die Boier siedelten im Gebiet zwischen dem heutigen Ungarn bis Süddeutschland."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "71 vor Christus",
+        "points": [
+            {
+                "coordinates": [
+                    34,
+                    56
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Am Rhein",
+                        "body": "Von den Sequanern und Avernern zur Hilfe gerufen überschreitet Ariovist mit 15 000 Mann den Rhein, um diese im Kampf gegen die Haeduer zu unterstützen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "61 vor Christus",
+        "points": [
+            {
+                "coordinates": [
+                    32,
+                    55
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Schlacht von Magetobriga",
+                        "body": "Nach mehreren unentschiedenen Gefechten kam es in der nur ungenau lokalisierten Gegend um Magetobriga zu der entscheidenden Schlacht. Ariovist wies seine Krieger monatelang an, sich in den Sümpfen versteckt zu halten. Als die Haeduer schließlich abziehen wollten, griffen die Germanen überraschend an und besiegten die Haeduer.\nDie Haeduer mussten Tribute zahlen, Gebiete abgeben und Geiseln stellen.\nAufgrund des Sieges Ariovist höhere Ansprüche an die Sequaner, die er letzendlich vertrieb, um mehr als 100 000 weitere Germanen über den Rhein zu holen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "59 vor Christus",
+        "points": [
+            {
+                "coordinates": [
+                    52,
+                    59
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Unterwerfung Boier",
+                        "body": "Die Boier werden durch die Daker geschlagen und unterworfen. Einige fliehen in Richtung Westen, um sich mit den Helvetiern zu verbünden. Auf ihrem Weg durchqueren sie Noricum und belagern die Stadt Noreia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "58 vor Christus",
+        "points": [
+            {
+                "coordinates": [
+                    34,
+                    55
+                ],
+                "contents": [
+                    {
+                        "type": "text",
+                        "title": "Voccio und Ariovist (1)",
+                        "body": "Voccio verheiratet seine Schwester an Ariovist, um sich mit ihm zu verbünden und gegen die Boier abzusichern."
+                    }
+                ]
+            },
+            {
+                "coordinates": [
+                    26,
+                    64
+                ],
+                "contents": [
+                    {
+                        "type":"text",
+                        "title":"Ultimatum (2)",
+                        "body":"Gerechtfertigt durch einen Hilferuf der Haeduer stellt Caesar Ariovist ein Ultimatum: Würde dieser seine Kampfhandlungen fortsetzen und weitere Germanen über den Rhein holen, so würde Caesar militärisch eingreifen.\nAriovist sah sich jedoch im Recht: Da er die Haeduer unterworfen hatte, habe er nun Anspruch auf das entsprechende Gebiet. Wenn es Caesar gelüste, möge er kämpfen."
+                    }
+                ]
+            },
+            {
+                "coordinates":[35,53],
+                "contents":[
+                    {
+                        "type":"text",
+                        "title":"Schlacht am Elsass (3)",
+                        "body":"Nachdem Ariovist arrogant auf das Ultimatum Caesars reagiert hatte, griff Caesar nach einer letzten und ergebnislosen Unterredung zu den Waffen und drängte die Germanen über den Rhein."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"54 vor Christus",
+        "points":[
+            {
+                "coordinates":[37,54],
+                "contents":[
+                    {
+                        "type":"text",
+                        "title":"Tod",
+                        "body": "Vier Jahre nach seiner Niederlage gegen Caesar verstarb Ariovist unter großer Trauer der Germanen."
                     }
                 ]
             }
