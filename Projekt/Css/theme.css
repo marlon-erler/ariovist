@@ -1,6 +1,6 @@
 /* animations */
 @keyframes slide-up {
-    0% { 
+    0% {
         transform: translateY(.5rem);
         opacity: 0;
     }
@@ -26,6 +26,8 @@
     --corners: 6px;
 
     --blur: blur(8px);
+
+    --font-size: 1.2rem;
 }
 
 /* colors */
@@ -121,6 +123,8 @@ hr {
     padding: 1rem;
 
     box-shadow: 0px 0px 20px var(--shadow);
+
+    border-radius: var(--corners);
 }
 
 select {
@@ -141,18 +145,23 @@ select {
     background-color: var(--surface-1);
     border-radius: var(--corners);
 
-    padding: .5rem;
+    padding: 1rem;
+    gap: .5rem;
 }
 
 #details h2 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
+}
+
+#details p {
+    font-size: var(--font-size);
 }
 
 #details .person-header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 1rem;
+    gap: 1.25rem;
 }
 
 #details .person-header img {
@@ -215,7 +224,7 @@ select {
     .pin:hover {
         transform: scale(1.1);
     }
-    
+
     .pin:active {
         transform: scale(0.9);
     }

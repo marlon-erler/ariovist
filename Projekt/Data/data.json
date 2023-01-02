@@ -1,7 +1,7 @@
 [
     {
         "index": 1,
-        "title": "Übersicht",
+        "title": "Ausgangszustand",
         "points": [
             {
                 "coordinates": [
@@ -19,7 +19,7 @@
                         "image": "ariovist.png",
                         "name": "Ariovist",
                         "description": "Germanischer Heerführer",
-                        "body": "Über den Germanenkönig Ariovist persönlich wurden fast keine Informationen überliefert, unter anderem aus Caesars Schriften lassen sich jedoch seine Handlungen im Gallischen Krieg nachvollziehen. Von den Avernern und Sequanern um Hilfe gebeten fiel Ariovist als Heerkönig in Gallien ein, um diese im Kampf gegen die Haeduer zu unterstützen. Von den Römern geschlagen mussten die Germanen später wieder über den Rhein fliehen, kurz darauf verstarb Ariovist."
+                        "body": "Über den Germanenkönig Ariovist persönlich wurden fast keine Informationen überliefert, unter anderem aus Caesars Schriften lassen sich jedoch seine Handlungen im Gallischen Krieg nachvollziehen. Von den Avernern und Sequanern um Hilfe gebeten fiel Ariovist als Heerkönig in Gallien ein, um diese im Kampf gegen die Haeduer zu unterstützen."
                     }
                 ]
             },
@@ -32,7 +32,7 @@
                     {
                         "type": "text",
                         "title": "Die Helvetier",
-                        "body": "Ursprünglich siedelten die Helvetier im Gebiet der heutigen Schweiz, wo sie jedoch aufgrund des Juragebirges und des Rheins eingeschlossen und somit äußerst ungünstig gelegen waren. Auch der Druck durch die Germanen führte letzendlich zu ihrer Absicht, auszuwandern."
+                        "body": "Ursprünglich siedelten die Helvetier im Gebiet der heutigen Schweiz, wo sie jedoch aufgrund des Juragebirges und des Rheins eingeschlossen und somit äußerst ungünstig gelegen waren."
                     },
                     {
                         "type": "person",
@@ -52,7 +52,7 @@
                     {
                         "type": "text",
                         "title": "Die Averner",
-                        "body": "Die Averner waren ein keltischer Stamm im heutigen Auvergne. Während der römischen Unterwerfung Südgalliens halfen sie den Allobrogern, wobei sie jedoch besiegt und später in das Reich eingegliedert wurden."
+                        "body": "Die Averner waren ein keltischer Stamm im heutigen Auvergne. Gemeinsam mit den Sequanern riefen sie die Germanen im Kampf gegen die Haeduer zur Hilfe."
                     }
                 ]
             },
@@ -65,27 +65,27 @@
                     {
                         "type": "text",
                         "title": "Die Sequaner",
-                        "body": "Die Sequaner waren ein keltischer Stamm im heutigen Besançon. In einem Streit mit den Haeduern baten sie den Germanenkönig Ariovist um Hilfe."
+                        "body": "Die Sequaner waren ein keltischer Stamm im heutigen Besançon. In einem Streit mit den Haeduern baten sie gemeinsam mit den Avernern den Germanenkönig Ariovist um Hilfe."
                     }
                 ]
             },
             {
                 "coordinates": [
-                    84,
-                    43
+                    73,
+                    55 
                 ],
                 "contents": [
                     {
                         "type": "text",
                         "title": "Noricum",
-                        "body": "Das Noricum war ein keltisches Königreich, welches ursprünglich im Gebiet des heutigen Österreich aufzufinden war. Durch verbesserte Anbaumethoden und Technologien wie eiserne Pflugscharen wuchs ihre Bevölkerung jedoch sehr schnell, weshalb sie sich in der Poebene ansiedelten. Die Römer verhandelten später eine staatliche Gastfreundschaft, woraus gute Handelsbeziehungen zwischen Rom und Noricum entstanden."
+                        "body": "Das Noricum war ein keltisches Königreich, welches ursprünglich im Gebiet des heutigen Österreich aufzufinden war. Durch verbesserte Anbaumethoden und Technologien wie eiserne Pflugscharen wuchs ihre Bevölkerung jedoch sehr schnell, weshalb sie sich in der Poebene ansiedelten."
                     },
                     {
                         "type": "person",
                         "image": "king.jpg",
                         "name": "Voccio",
                         "description": "König des Noricum",
-                        "body": "Voccio war ein wachsamer und strategischer Herrscher. Im römischen Bürgerkrieg unterstützte er Caesar, um eine Allianz gegen die Daker zu formen, welche die Boier und Taurisker schlugen. Im Misstrauen gegenüber Boiern, welche sich nun mit den Helvetiern verbündeten, verheiratete Voccio seine Schwester mit dem Germanenkönig Ariovist, um sich gegen die Boier und Helvetier abzusichern."
+                        "body": "Voccio war ein wachsamer und strategischer Herrscher. Im römischen Bürgerkrieg unterstützte er Caesar, um eine Allianz gegen die Daker zu formen, welche die Boier und Taurisker geschlagen hatten. Im Misstrauen gegenüber den verbleibenden Boiern, welche sich nun mit den Helvetiern verbündeten, verheiratete Voccio seine Schwester mit dem Germanenkönig Ariovist, um sich gegen die Boier und Helvetier abzusichern."
                     }
                 ]
             },

@@ -62,16 +62,17 @@ body>div {
 
 #close-btn {
 	position: absolute;
-	top: .5rem;
-	right: .5rem;
+	top: 1rem;
+	right: 1rem;
 
-	padding: 0rem;
+	padding: .5rem;
 
 	aspect-ratio: 1/1;
 }
 
 #close-btn img {
-	width: 2rem;
+	width: 1.7rem;
+	height: auto;
 }
 
 #details>div[id] {
@@ -81,7 +82,8 @@ body>div {
 
 	width: calc(100% + 0.7rem);
 	padding-right: .3rem;
-	margin-top: 2.4rem;
+	padding-bottom: 100%;
+	margin-top: 3.5rem;
 
 	box-sizing: border-box;
 
@@ -109,6 +111,8 @@ body>div {
 	:root {
 		--navigation-padding: .3rem;
 		--button-padding: .3rem;
+
+		--font-size: 1rem !important;
 	}
 
 	body {
@@ -139,7 +143,6 @@ body>div {
 
 	#details {
 		margin: 1rem;
-		border-radius: var(--corners);
 	}
 
 	#navigation {
@@ -192,7 +195,7 @@ body>div {
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	
+
 	pointer-events: none;
 }
 
