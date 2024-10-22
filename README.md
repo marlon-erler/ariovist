@@ -1,4 +1,5 @@
 # Ariovist
 
-Website über Ariovist mit Fokus auf den gallischen Krieg.
-©Marlon Erler
+Website about Ariovist with Fokus on the gallic war.
+
+[https://marlon-ariovist.onrender.com](https://marlon-ariovist.onrender.com)
